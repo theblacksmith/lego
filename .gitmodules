@@ -1,0 +1,3 @@
+[submodule "lego/mvc"]
+	path = lego/mvc
+	url = git@github.com:svallory/WordPress-MVC-Framework.git
